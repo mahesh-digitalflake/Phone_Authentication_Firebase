@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "582809034092",
+    "project_id": "phone-authentication-fir-55c24",
+    "storage_bucket": "phone-authentication-fir-55c24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582809034092:android:758096d0c14b90a907e749",
+        "android_client_info": {
+          "package_name": "com.example.phoneauthenticationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582809034092-pg194ffl9i96k5s19518d2dmag13lnif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phoneauthenticationfirebase",
+            "certificate_hash": "4d50c3decdee0b7ce7569a50780393ca339119cd"
+          }
+        },
+        {
+          "client_id": "582809034092-4sgs83hmfghm1ahgef26f86eleedsh5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOjc7uUR6eBJzO6mwzrSk_NVN1kBQGHOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582809034092-2a3cm5107jene8712gkg9kjimhdvqam9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
